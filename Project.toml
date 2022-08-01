@@ -1,0 +1,10 @@
+name = "ToolipsInterpolator"
+uuid = "0615dd2b-a071-4e12-9695-47a059c2d365"
+authors = ["emmac <emmettgb@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Toolips = "a47e2ad8-fcf7-417c-9746-32b9bdf220bd"
+[compat]
+julia = "1.5"
+Toolips = ">= 0.2.0"
