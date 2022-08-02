@@ -4,7 +4,7 @@
 The interpolator extension provides a single `Toolips.Servable`, the `InterpolatedFile`. This can be read from a directory, and is provided arguments to determine what to replace variable names with. Variable names are denoted with a `$`, much like in regular Julia.
 - [Documentation](doc.toolips.app/extensions/toolips_interpolator)
 - [Toolips](https://github.com/ChifiSource/Toolips.jl)
-- [Extension Gallery](https://doc.toolips.app/?page=gallery&selected=interpolator)
+- [Extension Gallery](https://toolips.app/?page=gallery&selected=interpolator)
 ##### index.html
 ```html
 <h1>Toolips interpolator example</h1>
