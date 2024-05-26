@@ -1,6 +1,9 @@
 <div align = "center"><img src = "https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsinterpolator.png" href = "https://toolips.app"></img></div>
 </br>
 
+#### dead repo
+`ToolipsInterpolator` is now a part of `Toolips` `0.3` itself. [Toolips?](https://github.com/ChifiSource/Toolips.jl). This project can still be used with `Toolips` `0.2`.
+
 The interpolator extension provides a single `Toolips.Servable`, the `InterpolatedFile`. This can be read from a directory, and is provided arguments to determine what to replace variable names with. Variable names are denoted with a `$`, much like in regular Julia.
 - [Documentation](doc.toolips.app/extensions/toolips_interpolator)
 - [Toolips](https://github.com/ChifiSource/Toolips.jl)
